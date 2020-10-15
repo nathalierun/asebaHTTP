@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=AsebaHTTP Snap!
+Exec=lxterminal -e /opt/asebaHTTP/run.sh
+Categories=Development;IDE;
+Icon=thymio
